@@ -109,6 +109,4 @@ GitHub: https://github.com/raksha408
 
 ---
 
-## 📄 License
 
-This project is for educational and portfolio purposes.
